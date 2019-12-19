@@ -1,0 +1,64 @@
+{
+    "name": "The Dark Sky",
+    "description": "Dark Sky is the most accurate source of hyperlocal weather information: with down-to-the-minute forecasts for your exact location, you'll never get caught in the rain again. (It's like magic!)",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28280-darksky-net.jpg",
+    "tags": [
+        "have api",
+        "weather"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-dark-sky\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Dark Sky",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28280-darksky-net.jpg",
+            "humanURL": "http:\/\/darksky.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-dark-sky-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/the-dark-sky-company"
+        },
+        {
+            "type": "Email",
+            "url": "info@darksky.net"
+        },
+        {
+            "type": "Email",
+            "url": "sales@darksky.net"
+        },
+        {
+            "type": "Email",
+            "url": "developer@darksky.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@darksky.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DarkSkyApp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/darksky.net"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/darksky.net"
+        }
+    ]
+}
